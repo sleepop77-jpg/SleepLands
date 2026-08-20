@@ -1,0 +1,6 @@
+{
+  "name": "StudyOS",
+  "description": "Gamified focus OS with animated intro, authentication, and precision Pomodoro timer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
